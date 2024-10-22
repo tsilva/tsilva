@@ -1,6 +1,6 @@
 ## It’s-a me, Tiago! 👋
 
-With **20+ years of experience** and **60+ projects shipped**, my passion for tech began in childhood. My career includes key roles at Microsoft 💻, co-founding Hive Solutions 🐝, and leading development at Tynker 💡, where I helped create products for over **100 million students** 🎓 and contributed to its **$200 million acquisition by BYJU’s** 💼. I work across frontend, backend, mobile apps 📱, and machine learning 🤖, always adapting and refining my skills to solve new challenges.
+With **20+ years of experience** and **60+ projects shipped**, my passion for tech began in childhood. My career includes key roles at [Microsoft](https://cv.tsilva.eu/#-microsoft) 💻, co-founding [Hive Solutions](https://cv.tsilva.eu/#-hive-solutions) 🐝, and leading development at [Tynker](https://cv.tsilva.eu/#-tynker) 💡, where I helped create products for over **100 million students across 150,000+ schools** 🏫 and contributed to its **[$200 million acquisition by BYJU’s](https://techcrunch.com/2021/09/16/byjus-acquires-coding-platform-tynker-for-200-million-in-us-expansion-push/)** 💼. I work across frontend, backend, mobile apps 📱, and machine learning 🤖, always adapting and refining my skills to solve new challenges.
 
 You can find out more about me and my work here:
 
