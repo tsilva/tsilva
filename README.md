@@ -5,6 +5,7 @@ With **20+ years of experience** and **60+ projects shipped**, my passion for te
 You can find out more about me and my work here:
 
 [<img src="https://img.shields.io/badge/-Curriculum%20Vitae-gray?style=for-the-badge&logo=readme&logoColor=white" alt="Curriculum Vitae Badge">](https://cv.tsilva.eu/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/engtiagosilva/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/tsilva)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-%23FF9B50.svg?&style=for-the-badge&logo=huggingface&logoColor=white"/>](https://huggingface.co/tsilva)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/engtiagosilva/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white"/>](https://twitter.com/tiagosilva)
