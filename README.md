@@ -10,8 +10,3 @@ You can find out more about me and my work here:
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/engtiagosilva/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white"/>](https://twitter.com/tiagosilva)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img alt="PyPI" src="https://img.shields.io/badge/PyPI-%233775A9.svg?&style=for-the-badge&logo=pypi&logoColor=white"/>](https://pypi.org/user/engtiagosilva/)
-
-
-## License
-
-MIT
